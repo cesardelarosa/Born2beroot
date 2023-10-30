@@ -52,23 +52,23 @@ I chose to use Debian as I am an absolute begginer. The rules are:
 
 ### VM Installation
 1. Open VirtuaBox, click on New.
-![](img/installation_1.png)
+![](img/installation_01.png)
 2. Select name, folder and OS type and version.
-![](img/installation_2.png)
+![](img/installation_02.png)
 3. Choose RAM size.
-![](img/installation_3.png)
+![](img/installation_03.png)
 4. Choose "Create a virtual hard disk now".
-![](img/installation_4.png)
+![](img/installation_04.png)
 5. Choose a VDI.
-![](img/installation_5.png)
+![](img/installation_05.png)
 6. Choose "Dynamically allocated".
-![](img/installation_6.png)
+![](img/installation_06.png)
 7. Select 30 GB.
-![](img/installation_7.png)
+![](img/installation_07.png)
 8. Click on "Settigs".
-![](img/installation_8.png)
+![](img/installation_08.png)
 9. Click on "Storage".
-![](img/installation_9.png)
+![](img/installation_09.png)
 10. Click on "Empty" (disk emoji).
 ![](img/installation_10.png)
 11. Click on disk emoji next to "Optical drive".
