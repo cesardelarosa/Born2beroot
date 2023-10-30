@@ -47,9 +47,41 @@ I chose to use Debian as I am an absolute begginer. The rules are:
 
 ### VM Download
 
-1. Download [Debian ISO]() 
+1. Download [Debian ISO](https://www.debian.org/distrib/netinst) (I chose debian 12.2.0 amd64).
+![](img/download_1.png)
 
+### VM Installation
+1. Open VirtuaBox, click on New.
+![](img/installation_1.png)
+2. Select name, folder and OS type and version.
+![](img/installation_2.png)
+3. Choose RAM size.
+![](img/installation_4.png)
+4. Choose "Create a virtual hard disk now".
+![](img/installation_5.png)
+5. Choose a VDI.
+![](img/installation_6.png)
+6. Choose "Dynamically allocated".
+![](img/installation_7.png)
+7. Select 30 GB.
+![](img/installation_8.png)
+8. Click on "Settigs".
+![](img/installation_9.png)
+9. Click on "Storage".
+![](img/installation_10.png)
+10. Click on "Empty" (disk emoji).
+![](img/installation_11.png)
+11. Click on disk emoji next to "Optical drive".
+![](img/installation_12.png)
+12. Click on "Choose a disk file..".
+![](img/installation_13.png)
+13. Select Debian ISO download.
+![](img/installation_14.png)
+14. Click on "OK".
+![](img/installation_15.png)
+15. Start virtual machine.
+![](img/installation_16.png)
 
-
+### VM Installation
 
 
