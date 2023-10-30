@@ -71,16 +71,14 @@ I chose to use Debian as I am an absolute begginer. The rules are:
 ![](img/installation_09.png)
 10. Click on "Empty" (disk emoji).
 ![](img/installation_10.png)
-11. Click on disk emoji next to "Optical drive".
+11. Click on disk emoji next to "Optical drive" and on "Choose a disk file...".
 ![](img/installation_11.png)
-12. Click on "Choose a disk file..".
-![](img/installation_12.png)
 13. Select Debian ISO download.
-![](img/installation_13.png)
+![](img/installation_12.png)
 14. Click on "OK".
-![](img/installation_14.png)
+![](img/installation_13.png)
 15. Start virtual machine.
-![](img/installation_15.png)
+![](img/installation_14.png)
 
 ### VM Installation
 
