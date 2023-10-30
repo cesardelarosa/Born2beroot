@@ -56,31 +56,31 @@ I chose to use Debian as I am an absolute begginer. The rules are:
 2. Select name, folder and OS type and version.
 ![](img/installation_2.png)
 3. Choose RAM size.
-![](img/installation_4.png)
+![](img/installation_3.png)
 4. Choose "Create a virtual hard disk now".
-![](img/installation_5.png)
+![](img/installation_4.png)
 5. Choose a VDI.
-![](img/installation_6.png)
+![](img/installation_5.png)
 6. Choose "Dynamically allocated".
-![](img/installation_7.png)
+![](img/installation_6.png)
 7. Select 30 GB.
-![](img/installation_8.png)
+![](img/installation_7.png)
 8. Click on "Settigs".
-![](img/installation_9.png)
+![](img/installation_8.png)
 9. Click on "Storage".
-![](img/installation_10.png)
+![](img/installation_9.png)
 10. Click on "Empty" (disk emoji).
-![](img/installation_11.png)
+![](img/installation_10.png)
 11. Click on disk emoji next to "Optical drive".
-![](img/installation_12.png)
+![](img/installation_11.png)
 12. Click on "Choose a disk file..".
-![](img/installation_13.png)
+![](img/installation_12.png)
 13. Select Debian ISO download.
-![](img/installation_14.png)
+![](img/installation_13.png)
 14. Click on "OK".
-![](img/installation_15.png)
+![](img/installation_14.png)
 15. Start virtual machine.
-![](img/installation_16.png)
+![](img/installation_15.png)
 
 ### VM Installation
 
